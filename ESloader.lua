@@ -8,9 +8,8 @@ print("📍 Place ID:", placeId)
 print("👥 Creator Type:", creatorType)
 print("🆔 Creator/Group ID:", game.CreatorId)
 
--- ============================================
--- GAME DETECTION (CHECKS BOTH GROUP ID & PLACE ID)
--- ============================================
+
+-- GAME DETECTION (CHECKS BOTH GROUP ID & PLACE ID
 
 -- Murder Mystery 2
 if groupId == 142823291 or placeId == 142823291 or placeId == 335132309 then
